@@ -1,5 +1,7 @@
 # Projects
 
+![Profile views](https://komarev.com/ghpvc/?username=elveli&color=blue)
+
 Hands-on projects in **Kubernetes**, **AWS**, **Terraform**, **CI/CD**, and **MLOps**. Most are cost-optimized demos and labs — Spot instances, scale-to-zero node groups, one-command teardown — built to be spun up, explored, and destroyed without leaving anything running.
 
 ## Featured
